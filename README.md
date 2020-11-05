@@ -1,2 +1,3 @@
 # gymBooker
-A Python script made to auto book the gym through the use of Selenium
+A program built through Python and Selenium to book the gym 5 days a week
+- varun was here
